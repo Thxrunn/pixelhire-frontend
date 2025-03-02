@@ -1,0 +1,8 @@
+# Visual Studio files
+.vs/
+
+# Node.js files
+node_modules/
+.env
+.next/
+out/
